@@ -1,4 +1,4 @@
-# Team workflow with GitHub and Heroku Pipelines
+# Team workflow with GitHub and Heroku Pipelines <Dummy Text>
 
 If you are on a team of a few people and you are working together on a product,
 you will sooner or later need to integrate each team member's work with that
